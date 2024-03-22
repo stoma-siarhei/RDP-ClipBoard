@@ -1,0 +1,39 @@
+BeyondCopy 1.26
+1. Remove host name length check. Because the name size may be bigger than 15.
+
+BeyondCopy 1.25
+1. Remove server accepting check. Because the check is slow and invalidity sometimes. 
+
+BeyondCopy 1.24
+1. Fix some bugs.
+2. Show the time of information.
+3. Change reconnection interval to 20 seconds.
+4. Add version infomation to exe file.
+
+BeyondCopy 1.23
+1. Fix some bugs.
+2. Verifying the host when receving infomation.
+3. Change sending interval to 0.8 second, and reconnection interval to 15 seconds.
+
+BeyondCopy 1.22
+1. Fix some bugs.
+2. Tray menu enhancement.
+
+BeyondCopy 1.21
+1. Using host names instead of IP.
+2. Support many computers.
+3. Need not restarting for changing port.
+4. Waiting for disconnected hosts. Not exiting.
+5. UI enhancement.
+
+BeyondCopy 1.12
+1. Fix some bugs.
+
+BeyondCopy 1.11
+1. Fix some bugs.
+
+BeyondCopy 1.10 
+1. Support copying files.
+
+BeyondCopy 1.00
+The first version of BeyondCopy.

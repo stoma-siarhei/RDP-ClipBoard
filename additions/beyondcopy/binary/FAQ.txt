@@ -1,0 +1,21 @@
+BeyondCopy FAQ 
+
+Q: What is BeyondCopy?
+A: A LAN hosts clipboard synchronism tool. Generally speaking, BeyondCopy allows you to copy something in one computer, and paste it in another computer directly.
+
+Q: How to use it?
+A: Suppose you have three computers: A, B and C. 
+1. Run BeyondCopy on computer A, and add B and C to the hosts list.
+2. Run BeyondCopy on computer B, and add A and C to the hosts list.
+3. Run BeyondCopy on computer C, and add A and B to the hosts list.
+
+Wait for about 30 seconds. Now you can copy some text or files in computer A, and paste it into computer B and C.
+
+BeyondCopy can remember your options, and it starts with Windows by default. If you want to change port, please make sure you use the same port in all of your hosts. 
+
+Q: Is there any limitation?
+A: BeyondCopy is windows-only software. Current BeyondCopy only supports copying text and files, and it works only when the information in clipboard is less than or equal to 2048 bytes. If you want to copy files, please make sure you don't delete default disk share in these hosts, and you already save your account/password, or use the same account in these hosts.
+
+
+
+
